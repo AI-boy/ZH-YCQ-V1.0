@@ -1,0 +1,1 @@
+ delay.d  delay.p1:  D:/MCUProject/ZH-YCQ-V1.0/src/delay.c D:/MCUProject/ZH-YCQ-V1.0/include/pic16f1938.h
